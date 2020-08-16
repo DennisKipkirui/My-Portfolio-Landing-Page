@@ -9754,15 +9754,6 @@ button.bg-dark:focus {
 .text-white {
   color: #fff !important;
 }
-/* 
-.text-primary {
-  color: #25408f !important;
-} */
-
-/* a.text-primary:hover, a.text-primary:focus {
-  color: #824027 !important;
-} */
-
 .text-secondary {
   color: #6c757d !important;
 }
@@ -10041,7 +10032,7 @@ p.lead {
     display: block;
   }
 }
-.social-icons .social-icon {
+/* .social-icons .social-icon {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -10062,7 +10053,7 @@ p.lead {
 
 .dev-icons {
   font-size: 3rem;
-}
+} */
 
 section.resume-section {
   display: flex;
