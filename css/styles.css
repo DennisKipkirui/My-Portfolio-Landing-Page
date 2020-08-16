@@ -94,7 +94,7 @@ hr {
   color: #dc3545;
 }
 
-/* .invalid-tooltip {
+.invalid-tooltip {
   position: absolute;
   top: 100%;
   z-index: 5;
@@ -270,7 +270,7 @@ hr {
 }
 .navbar-dark .navbar-text a:hover, .navbar-dark .navbar-text a:focus {
   color: #fff;
-} */
+}
 
 
 
