@@ -9954,11 +9954,11 @@ body {
   color: #6c757d;
 }
 
-@media (min-width: 992px) {
+/* @media (min-width: 992px) {
   body {
     padding-top: 0;
     padding-left: 17rem;
-  }
+  } */
 }
 h1,
 h2,
@@ -10033,28 +10033,6 @@ p.lead {
     display: block;
   }
 
-/* .social-icons .social-icon {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  height: 3.5rem;
-  width: 3.5rem;
-  background-color: #41ad49;
-  color: #fff;
-  border-radius: 100%;
-  font-size: 1.5rem;
-  margin-right: 1.5rem;
-}
-.social-icons .social-icon:last-child {
-  margin-right: 0;
-}
-.social-icons .social-icon:hover {
-  background-color: #25408f;
-} */
-
-/* .dev-icons {
-  font-size: 3rem;
-} */
 
 section.resume-section {
   display: flex;
