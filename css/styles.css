@@ -9953,11 +9953,11 @@ body {
   color: #6c757d;
 }
 
-@media (min-width: 992px) {
+/* @media (min-width: 992px) {
   body {
     padding-top: 0;
     padding-left: 17rem;
-  }
+  } */
 }
 h1,
 h2,
