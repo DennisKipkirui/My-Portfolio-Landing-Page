@@ -80,7 +80,7 @@ hr {
     max-width: 91.6666666667%;
   }
 
-  
+
 .was-validated .custom-file-input:valid:focus ~ .custom-file-label, .custom-file-input.is-valid:focus ~ .custom-file-label {
   border-color: #28a745;
   box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25);
@@ -109,7 +109,7 @@ hr {
   border-radius: 0.25rem;
 }
 
-.was-validated :invalid ~ .invalid-feedback,
+/* .was-validated :invalid ~ .invalid-feedback,
 .was-validated :invalid ~ .invalid-tooltip,
 .is-invalid ~ .invalid-feedback,
 .is-invalid ~ .invalid-tooltip {
@@ -997,7 +997,7 @@ input[type=button].btn-block {
   color: #fff;
   text-decoration: none;
   background-color: #bd5d38;
-}
+} */
 .dropdown-item.disabled, .dropdown-item:disabled {
   color: #6c757d;
   pointer-events: none;
