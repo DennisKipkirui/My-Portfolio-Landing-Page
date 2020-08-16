@@ -9843,17 +9843,10 @@ a.text-dark:hover, a.text-dark:focus {
   word-wrap: break-word !important;
 }
 
-.text-reset {
+/* .text-reset {
   color: inherit !important;
-}
+} */
 
-/* .visible {
-  visibility: visible !important;
-} */
-/* 
-.invisible {
-  visibility: hidden !important;
-} */
 
 @media print {
   *,
