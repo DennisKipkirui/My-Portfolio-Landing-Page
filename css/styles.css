@@ -3977,7 +3977,7 @@ input[type=button].btn-block {
   padding-right: 0;
   padding-left: 0;
 }
-.navbar-nav .dropdown-menu {
+/* .navbar-nav .dropdown-menu {
   position: static;
   float: none;
 }
@@ -4997,7 +4997,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 .list-group-item-action:active {
   color: #212529;
   background-color: #e9ecef;
-}
+} */
 
 
 
