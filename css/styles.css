@@ -460,8 +460,8 @@ hr {
   .d-md-inline-flex {
     display: inline-flex !important;
   }
-}
-@media (min-width: 992px) {
+
+/* @media (min-width: 992px) {
   .d-lg-none {
     display: none !important;
   }
@@ -878,7 +878,7 @@ h3 {
   h2,
 h3 {
     page-break-after: avoid;
-  }
+  } */
 
   @page {
     size: a3;
