@@ -6529,7 +6529,7 @@ button.bg-dark:focus {
   padding-top: 100%;
 }
 
-.flex-row {
+/* .flex-row {
   flex-direction: row !important;
 }
 
@@ -6591,31 +6591,9 @@ button.bg-dark:focus {
 
 .justify-content-between {
   justify-content: space-between !important;
-}
-
-/* .justify-content-around {
-  justify-content: space-around !important;
-}
-
-.align-items-start {
-  align-items: flex-start !important;
-}
-
-.align-items-end {
-  align-items: flex-end !important;
-}
-
-.align-items-center {
-  align-items: center !important;
-}
-
-.align-items-baseline {
-  align-items: baseline !important;
-}
-
-.align-items-stretch {
-  align-items: stretch !important;
 } */
+
+
 
 .align-content-start {
   align-content: flex-start !important;
