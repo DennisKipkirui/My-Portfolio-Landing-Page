@@ -7996,7 +7996,7 @@ button.bg-dark:focus {
     margin-right: 1.5rem !important;
   }
 
-  .mb-sm-4,
+  /* .mb-sm-4,
 .my-sm-4 {
     margin-bottom: 1.5rem !important;
   }
@@ -9627,7 +9627,7 @@ button.bg-dark:focus {
   pointer-events: auto;
   content: "";
   background-color: rgba(0, 0, 0, 0);
-}
+} */
 
 /* .text-monospace {
   font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !important;
