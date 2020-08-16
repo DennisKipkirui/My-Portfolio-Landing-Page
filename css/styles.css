@@ -7352,7 +7352,7 @@ button.bg-dark:focus {
   }
 }
 
-.sr-only {
+/* .sr-only {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -7371,7 +7371,7 @@ button.bg-dark:focus {
   overflow: visible;
   clip: auto;
   white-space: normal;
-}
+} */
 
 
 
