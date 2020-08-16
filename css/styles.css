@@ -1,8 +1,8 @@
-/* *,
+*,
 *::before,
 *::after {
   box-sizing: border-box;
-} */
+}
 
 html {
   font-family: sans-serif;
@@ -9754,6 +9754,15 @@ button.bg-dark:focus {
 .text-white {
   color: #fff !important;
 }
+
+/* .text-primary {
+  color: #25408f !important;
+} */
+
+a.text-primary:hover, a.text-primary:focus {
+  color: #824027 !important;
+}
+
 .text-secondary {
   color: #6c757d !important;
 }
@@ -9919,7 +9928,7 @@ h3 {
   .badge {
     border: 1px solid #000;
   }
-/* 
+
   .table {
     border-collapse: collapse !important;
   }
@@ -9946,8 +9955,8 @@ h3 {
   .table .thead-dark th {
     color: inherit;
     border-color: #dee2e6;
-  } */
-
+  }
+}
 body {
   padding-top: 3.375rem;
   color: #6c757d;
@@ -9966,9 +9975,6 @@ h4,
 h5,
 h6 {
   text-transform: uppercase;
-  font-size: x-large;
-  font-style: initial;
-  font-family: 'Times New Roman', Times, serif;
 }
 
 h1 {
@@ -10035,7 +10041,28 @@ p.lead {
     display: block;
   }
 }
+.social-icons .social-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 3.5rem;
+  width: 3.5rem;
+  background-color: #41ad49;
+  color: #fff;
+  border-radius: 100%;
+  font-size: 1.5rem;
+  margin-right: 1.5rem;
+}
+.social-icons .social-icon:last-child {
+  margin-right: 0;
+}
+.social-icons .social-icon:hover {
+  background-color: #25408f;
+}
 
+.dev-icons {
+  font-size: 3rem;
+}
 
 section.resume-section {
   display: flex;
