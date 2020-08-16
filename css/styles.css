@@ -111,7 +111,7 @@ hr {
 
 
 
-  /* .navbar-expand-lg .navbar-toggler {
+  .navbar-expand-lg .navbar-toggler {
     display: none;
   }
 }
@@ -196,7 +196,7 @@ hr {
   display: none;
 }
 
-.navbar-light .navbar-brand {
+/* .navbar-light .navbar-brand {
   color: rgba(0, 0, 0, 0.9);
 }
 .navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
@@ -348,7 +348,7 @@ hr {
 }
 .card-footer:last-child {
   border-radius: 0 0 calc(0.25rem - 1px) calc(0.25rem - 1px);
-}
+} */
 
 .card-header-tabs {
   margin-right: -0.625rem;
@@ -1496,7 +1496,7 @@ button.bg-dark:focus {
 
 .align-content-center {
   align-content: center !important;
-} */
+}
 
 .align-content-between {
   align-content: space-between !important;
