@@ -2173,7 +2173,7 @@ textarea.form-control {
 .is-valid ~ .valid-tooltip {
   display: block;
 }
-
+/* 
 .was-validated .form-control:valid, .form-control.is-valid {
   border-color: #28a745;
   padding-right: calc(1.5em + 0.75rem);
@@ -2998,10 +2998,14 @@ input[type=button].btn-block {
   .dropdown-menu-sm-left {
     right: auto;
     left: 0;
-  }
+  } */
 
 
-  
+
+
+
+
+
 @media (prefers-reduced-motion: reduce) {
   .custom-range::-webkit-slider-thumb {
     -webkit-transition: none;
