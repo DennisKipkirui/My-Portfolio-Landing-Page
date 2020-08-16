@@ -9919,7 +9919,7 @@ h3 {
   .badge {
     border: 1px solid #000;
   }
-
+/* 
   .table {
     border-collapse: collapse !important;
   }
@@ -9946,18 +9946,18 @@ h3 {
   .table .thead-dark th {
     color: inherit;
     border-color: #dee2e6;
-  }
+  } */
 
 body {
   padding-top: 3.375rem;
   color: #6c757d;
 }
 
-/* @media (min-width: 992px) {
+@media (min-width: 992px) {
   body {
     padding-top: 0;
     padding-left: 17rem;
-  } */
+  }
 }
 h1,
 h2,
