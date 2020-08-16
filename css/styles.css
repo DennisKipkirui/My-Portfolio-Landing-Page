@@ -367,7 +367,7 @@ hr {
   background-color: #25408f !important;
 }
 
-a.bg-primary:hover, a.bg-primary:focus,
+/* a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
   background-color: #964a2c !important;
@@ -859,7 +859,7 @@ button.bg-success:focus {
 
   .align-content-md-around {
     align-content: space-around !important;
-  }
+  } */
 
 
 
