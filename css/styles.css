@@ -46,7 +46,7 @@ p {
 
 
 
-a:not([href]) {
+/* a:not([href]) {
   color: inherit;
   text-decoration: none;
 }
@@ -425,7 +425,7 @@ button.bg-danger:focus {
 
 .bg-light {
   background-color: #f8f9fa !important;
-}
+} */
 
 a.bg-light:hover, a.bg-light:focus,
 button.bg-light:hover,
