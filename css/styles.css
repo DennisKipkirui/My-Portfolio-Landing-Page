@@ -9637,7 +9637,7 @@ button.bg-dark:focus {
   text-align: justify !important;
 }
 
-.text-wrap {
+/* .text-wrap {
   white-space: normal !important;
 }
 
@@ -9841,11 +9841,8 @@ a.text-dark:hover, a.text-dark:focus {
 
 .text-break {
   word-wrap: break-word !important;
-}
-
-/* .text-reset {
-  color: inherit !important;
 } */
+
 
 
 @media print {
