@@ -6593,7 +6593,7 @@ button.bg-dark:focus {
   justify-content: space-between !important;
 }
 
-.justify-content-around {
+/* .justify-content-around {
   justify-content: space-around !important;
 }
 
@@ -6615,7 +6615,7 @@ button.bg-dark:focus {
 
 .align-items-stretch {
   align-items: stretch !important;
-}
+} */
 
 .align-content-start {
   align-content: flex-start !important;
