@@ -6450,7 +6450,7 @@ button.bg-dark:focus {
   .d-xl-inline-flex {
     display: inline-flex !important;
   }
-}
+/* }
 @media print {
   .d-print-none {
     display: none !important;
@@ -6527,7 +6527,7 @@ button.bg-dark:focus {
 
 .embed-responsive-1by1::before {
   padding-top: 100%;
-}
+} */
 
 
 
