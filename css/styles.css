@@ -396,7 +396,7 @@ button.bg-success:focus {
 .bg-info {
   background-color: #17a2b8 !important;
 }
-
+/* 
 a.bg-info:hover, a.bg-info:focus,
 button.bg-info:hover,
 button.bg-info:focus {
@@ -595,7 +595,7 @@ button.bg-dark:focus {
 
 .d-table {
   display: table !important;
-}
+} */
 
 .d-table-row {
   display: table-row !important;
