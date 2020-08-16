@@ -461,7 +461,7 @@ hr {
     display: inline-flex !important;
   }
 
-/* @media (min-width: 992px) {
+@media (min-width: 992px) {
   .d-lg-none {
     display: none !important;
   }
@@ -828,7 +828,7 @@ hr {
 
   .align-content-md-around {
     align-content: space-around !important;
-  } */
+  }
 
 
 
