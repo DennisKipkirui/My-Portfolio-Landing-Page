@@ -6103,7 +6103,7 @@ button.bg-warning:focus {
   background-color: #d39e00 !important;
 }
 
-/* .bg-danger {
+.bg-danger {
   background-color: #dc3545 !important;
 }
 
@@ -6259,7 +6259,7 @@ button.bg-dark:focus {
 
 .rounded-0 {
   border-radius: 0 !important;
-} */
+}
 
 .clearfix::after {
   display: block;
