@@ -1789,7 +1789,7 @@ pre code {
   background-color: #ffe8a1;
 }
 
-.table-danger,
+/* .table-danger,
 .table-danger > th,
 .table-danger > td {
   background-color: #f5c6cb;
@@ -2172,7 +2172,7 @@ textarea.form-control {
 .is-valid ~ .valid-feedback,
 .is-valid ~ .valid-tooltip {
   display: block;
-}
+} */
 
 
 
