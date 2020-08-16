@@ -117,7 +117,7 @@ sup {
 
 a {
   color:green;
-  text-decoration: none;
+  text-decoration: #212529;
   background-color: transparent;
 }
 a:hover {
